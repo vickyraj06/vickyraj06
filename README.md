@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vickyraj06
-- 👀 I’m interested in SOFTWARE DEVELOPING,WEB DESIGNING
-- 🌱 I’m currently learning PYTHON and TESTING
+- 👀 I’m interested in SOFTWARE TESTING,WEB DESIGNING
+- 🌱 I’m SOFTWARE TESTER
 - 📫 Reach me @ vignesh006raj@gmail.com
 
 <!---
