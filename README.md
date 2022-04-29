@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vickyraj06
 - 👀 I’m interested in SOFTWARE TESTING,WEB DESIGNING
 - 🌱 I’m SOFTWARE TESTER
-- 📫 Reach me @ vignesh006raj@gmail.com
+- 📫 Reach me @ vignesh.raj9606@gmail.com
 
 <!---
 vickyraj06/vickyraj06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
